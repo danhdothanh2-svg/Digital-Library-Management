@@ -1,0 +1,35 @@
+[
+    {
+        "item_id": "PB001",
+        "title": "Python Basics",
+        "author": "John Smith",
+        "book_type": "PaperBook",
+        "price": 10.0,
+        "stock": 5,
+        "rental_days": 7,
+        "file_size": null,
+        "duration": null
+    },
+    {
+        "item_id": "EB001",
+        "title": "Machine Learning Guide",
+        "author": "Andrew Ng",
+        "book_type": "EBook",
+        "price": 15.0,
+        "stock": null,
+        "rental_days": null,
+        "file_size": 2.5,
+        "duration": null
+    },
+    {
+        "item_id": "AB001",
+        "title": "Deep Learning Audio",
+        "author": "Ian Goodfellow",
+        "book_type": "AudioBook",
+        "price": 20.0,
+        "stock": null,
+        "rental_days": null,
+        "file_size": null,
+        "duration": 120
+    }
+]
