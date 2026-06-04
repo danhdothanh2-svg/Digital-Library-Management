@@ -1,0 +1,2 @@
+T202606040001,Danh,Python Basics,2,18.0,2026-06-04
+T202606040002,John,Machine Learning Guide,1,15.0,2026-06-04
