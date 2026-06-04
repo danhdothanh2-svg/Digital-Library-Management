@@ -1,0 +1,18 @@
+[
+    {
+        "transaction_id": "T202606040001",
+        "customer_name": "Danh",
+        "item_title": "Python Basics",
+        "quantity": 2,
+        "total_fee": 18.0,
+        "transaction_date": "2026-06-04"
+    },
+    {
+        "transaction_id": "T202606040002",
+        "customer_name": "John",
+        "item_title": "Machine Learning Guide",
+        "quantity": 1,
+        "total_fee": 15.0,
+        "transaction_date": "2026-06-04"
+    }
+]
