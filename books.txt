@@ -1,0 +1,3 @@
+PB001,Python Basics,John Smith,PaperBook,10,5,7
+EB001,Machine Learning Guide,Andrew Ng,EBook,15,, ,2.5
+AB001,Deep Learning Audio,Ian Goodfellow,AudioBook,20,,,120
