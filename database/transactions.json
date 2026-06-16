@@ -1,0 +1,58 @@
+[
+    {
+        "transaction_id": "T202605010001",
+        "customer_name": "Danh",
+        "item_title": "Python Basics",
+        "quantity": 2,
+        "total_fee": 18.0,
+        "transaction_date": "2026-05-01"
+    },
+    {
+        "transaction_id": "T202605050002",
+        "customer_name": "John",
+        "item_title": "Machine Learning Guide",
+        "quantity": 1,
+        "total_fee": 15.25,
+        "transaction_date": "2026-05-05"
+    },
+    {
+        "transaction_id": "T202605100003",
+        "customer_name": "Hay",
+        "item_title": "Deep Learning Audio",
+        "quantity": 1,
+        "total_fee": 28.5,
+        "transaction_date": "2026-05-10"
+    },
+    {
+        "transaction_id": "T202606010004",
+        "customer_name": "Danh",
+        "item_title": "Python Basics",
+        "quantity": 3,
+        "total_fee": 27.0,
+        "transaction_date": "2026-06-01"
+    },
+    {
+        "transaction_id": "T202606050005",
+        "customer_name": "Minh",
+        "item_title": "VS Code Guide",
+        "quantity": 2,
+        "total_fee": 17.0,
+        "transaction_date": "2026-06-05"
+    },
+    {
+        "transaction_id": "T202606100006",
+        "customer_name": "John",
+        "item_title": "AI Fundamentals Audio",
+        "quantity": 2,
+        "total_fee": 58.5,
+        "transaction_date": "2026-06-10"
+    },
+    {
+        "transaction_id": "T202606150007",
+        "customer_name": "Danh",
+        "item_title": "Python Basics",
+        "quantity": 4,
+        "total_fee": 36.0,
+        "transaction_date": "2026-06-15"
+    }
+]
