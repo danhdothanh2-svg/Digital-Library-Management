@@ -1,0 +1,68 @@
+[
+    {
+        "item_id": "PB001",
+        "title": "Python Basics",
+        "author": "John Smith",
+        "book_type": "PaperBook",
+        "price": 10.0,
+        "stock": 8,
+        "rental_days": 7,
+        "file_size": null,
+        "duration": null
+    },
+    {
+        "item_id": "PB002",
+        "title": "Data Structures",
+        "author": "Mark Allen",
+        "book_type": "PaperBook",
+        "price": 12.0,
+        "stock": 10,
+        "rental_days": 14,
+        "file_size": null,
+        "duration": null
+    },
+    {
+        "item_id": "EB001",
+        "title": "Machine Learning Guide",
+        "author": "Andrew Ng",
+        "book_type": "EBook",
+        "price": 15.0,
+        "stock": 50,
+        "rental_days": 30,
+        "file_size": 2.5,
+        "duration": null
+    },
+    {
+        "item_id": "EB002",
+        "title": "VS Code Guide",
+        "author": "Microsoft",
+        "book_type": "EBook",
+        "price": 8.0,
+        "stock": 40,
+        "rental_days": 30,
+        "file_size": 5.0,
+        "duration": null
+    },
+    {
+        "item_id": "AB001",
+        "title": "Deep Learning Audio",
+        "author": "Ian Goodfellow",
+        "book_type": "AudioBook",
+        "price": 20.0,
+        "stock": 20,
+        "rental_days": 30,
+        "file_size": 25.0,
+        "duration": 120
+    },
+    {
+        "item_id": "AB002",
+        "title": "AI Fundamentals Audio",
+        "author": "Andrew Ng",
+        "book_type": "AudioBook",
+        "price": 18.0,
+        "stock": 15,
+        "rental_days": 30,
+        "file_size": 18.0,
+        "duration": 90
+    }
+]
