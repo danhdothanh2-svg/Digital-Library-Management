@@ -1,0 +1,6 @@
+PB001,Python Basics,John Smith,PaperBook,10,8,7,,
+PB002,Data Structures,Mark Allen,PaperBook,12,10,14,,
+EB001,Machine Learning Guide,Andrew Ng,EBook,15,50,30,2.5,
+EB002,VS Code Guide,Microsoft,EBook,8,40,30,5.0,
+AB001,Deep Learning Audio,Ian Goodfellow,AudioBook,20,20,30,25.0,120
+AB002,AI Fundamentals Audio,Andrew Ng,AudioBook,18,15,30,18.0,90
