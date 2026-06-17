@@ -474,7 +474,7 @@ Course: Programming Methods
 | GitHub Management    | 0.25    |
 | Exception Handling   | 0.5     |
 | File I/O             | 1.0     |
-| TOTAL                | 10 / 10 |
+| TOTAL                | 9.25 / 10 |
 
 ```
 ```
