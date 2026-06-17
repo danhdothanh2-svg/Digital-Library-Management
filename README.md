@@ -465,13 +465,13 @@ Course: Programming Methods
 
 | Category             | Score   |
 | -------------------- | ------- |
-| OOP Design           | 2.0     |
+| OOP Design           | 1.5     |
 | CRUD System          | 1.0     |
 | Search & Sort        | 1.0     |
 | Transaction Logic    | 1.0     |
 | Reports & Statistics | 1.0     |
 | SQLite Database      | 0.5     |
-| GitHub Management    | 0.5     |
+| GitHub Management    | 0.25    |
 | Exception Handling   | 0.5     |
 | File I/O             | 1.0     |
 | TOTAL                | 10 / 10 |
